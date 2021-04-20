@@ -7,7 +7,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-@movibe-3370cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/movibe)][telegram]
 [![NPM Badge](https://img.shields.io/badge/-@movibe-3370cc?style=flat&logo=npm&logoColor=white&link=https://www.npmjs.com/~movibe)][npm]
 
-- 💼 I work at [Opah IT](https://www.opah.com.br/)
 - 💬 I am currently as a mobile architect at Livelo with React Native
 - 😍 I love: Design, Photos, Games, and Code ✨.
 - 🤝 Where to connect: [twitter.com/m0vibe](https://www.twitter.com/m0vibe)
